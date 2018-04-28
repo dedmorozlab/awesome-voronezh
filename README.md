@@ -27,6 +27,14 @@ A curated list of awesome Voronezh related resource. Список ресурсо
   * [Facebook](//fb.me/vrntrans) 
   * [VK](//vk.com/vrntrans)
 
+## Персоналии
+* **Журналист, общественный деятель, Павел Долгих**
+* [Telegram канал](t.elegram.ru/higlod) 
+* [Твиттер](http://twitter.com/dedmorozlab)
+* [ЖЖ](dedmorozlab.livejournal.com)
+* [VK](https://vk.com/dolgihphoto)
+* [Фотосъемка в Воронеже](http://paveldolgih.ru)
+
 ## Сообщества
 
 * **Глубокий рефакторинг**. Взаимоотношения с технологиями. Воронежский компьютерный клуб.
